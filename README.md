@@ -1,6 +1,9 @@
 ## Java Login App ##
 Testing 
 
+## To access the application ##
+<host IP>:8080/java-login-app/login
+
 ## Sample Java Login application uses "UserDB" database and Table schema to store the Employee Login details. ##
 
 ## How to see list of Databases ##
